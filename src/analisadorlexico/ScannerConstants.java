@@ -1,3 +1,5 @@
+package analisadorlexico;
+
 public interface ScannerConstants
 {
     int[][] SCANNER_TABLE = 
@@ -109,7 +111,7 @@ public interface ScannerConstants
 
     String[] SCANNER_ERROR =
     {
-        "Caractere não esperado",
+        "Caractere nao esperado",
         "",
         "",
         "",

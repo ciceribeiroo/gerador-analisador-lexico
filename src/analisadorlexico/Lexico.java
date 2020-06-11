@@ -1,4 +1,6 @@
-public class Lexico implements Constants
+package analisadorlexico;
+
+public class Lexico implements ScannerConstants
 {
     private int position;
     private String input;

@@ -1,3 +1,5 @@
+package analisadorlexico;
+
 public class Token
 {
     private int id;
